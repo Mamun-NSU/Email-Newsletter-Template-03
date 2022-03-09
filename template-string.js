@@ -1,7 +1,7 @@
 const myString = `Hello everyone.
     My name is Mamun. 
     Today i write ES6 code.`
-
+// template string
 const myName = "Abdullah Al Mamun";
 const country = "Bangladesh";
 const profession = "Software Engineer";
