@@ -7,9 +7,12 @@ const array4 = array.filter(number => number >= 32);
 const array5 = array.find(number => number >= 32);
 
 
-console.log(array);
-console.log(array2);
-console.log(array3);
-console.log(array4);
-console.log(array5);
+// console.log(array);
+// console.log(array2);
+// console.log(array3);
+// console.log(array4);
+// console.log(array5);
 
+const array6 = array.map(number => number + 10);
+
+console.log(array6);
