@@ -5,6 +5,8 @@ const myString = `Hello everyone.
 const myName = "Abdullah Al Mamun";
 const country = "Bangladesh";
 const profession = "Software Engineer";
+
+
 // Template string is covered by ``
 const mySelf = `Hello!!
 My name is: ${myName}.
