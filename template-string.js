@@ -7,7 +7,7 @@ const country = "Bangladesh";
 const profession = "Software Engineer";
 
 
-// Template string is covered by ``
+// Template string is covered by [``]
 const mySelf = `Hello!!
 My name is: ${myName}.
 I live in ${country}.
