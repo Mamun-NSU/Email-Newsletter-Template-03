@@ -8,4 +8,4 @@ const person = {
 };
 console.log(person);
 const { name, home, age } = person;
-console.log(name, home);
+console.log(age, home);
